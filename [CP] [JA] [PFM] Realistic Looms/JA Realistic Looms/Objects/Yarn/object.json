@@ -3,7 +3,7 @@
     "Description": "Wool that has been spun into yarn can be used on a loom to make cloth.",
     "Category": "ArtisanGoods",
     "Edibility": -300,
-    "Price": 200,
+    "Price": 400,
     "IsColored": false,
     "Recipe": null,
     "GiftTastes":

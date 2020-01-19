@@ -16,14 +16,14 @@
     { //cloth
         "ProducerName": "Loom",
         "InputIdentifier": "Yarn",
-        "InputStack": 2,
+        "InputStack": 1,
         "ExcludeIdentifiers": null,
         "FuelIdentifier": null,
         "MinutesUntilReady": 60,
         "OutputIdentifier": 428, //cloth
         "PreserveType": null,
         "OutputStack": 1,
-        "OutputMaxStack": 1,
+        "OutputMaxStack": 2,
         "SilverQualityInput": {
             "Probability": 0.4,
             "OutputStack": 1,
