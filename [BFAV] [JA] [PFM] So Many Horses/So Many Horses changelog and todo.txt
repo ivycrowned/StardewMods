@@ -1,10 +1,11 @@
 1.0.0	released
 1.0.1	removed stats error from pfm, renamed manure to horse manure to prevent conflict with bulls mod
+1.1.0	add translations
 
 
 
 to do
-introduce disable with mod to simplify manure
+introduce disable with mod to simplify manure (changing name will abandon old objects. keep pfm for horse manure in, but add manure. deprecate pfm for hm significantly later)
 introduce stf animal shop
 resave std adult sprites for flipped horseshoes
 introduce new artisan goods

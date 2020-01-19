@@ -6,4 +6,32 @@
     "Price": 50,
     "IsColored": false,
     "Recipe": null,
+	"NameLocalization":
+    {
+        "es": "estiércol de caballo", //Spansih
+        "ko": "말 배설물", //Korean
+        "de": "Pferdemist", //German
+        "fr": "fumier de cheval", //French
+        "hu": "ló trágya", //Hungarian
+        "it": "letame di cavallo", //Italian
+        "ja": "馬の糞", //Japanese
+        "pt": "Estrume de cavalo", //Portuguese
+        "ru": "Конский навоз", //Russian
+        "tr": "At gübresi", //Turkish
+        "zh": "马粪", //Chinese (Simplified)
+    },
+    "DescriptionLocalization":
+    {
+        "es": "El estiércol de caballo se puede convertir en fertilizante utilizando la máquina de reciclaje.", //Spansih
+        "ko": "말 배설물은 재활용 기계를 사용하여 비료로 전환 할 수 있습니다.", //Korean
+        "de": "Pferdemist kann mit einer Recyclingmaschine zu Dünger verarbeitet werden.", //German
+        "fr": "Le fumier de cheval peut être transformé en engrais à l'aide d'une machine de recyclage.", //French
+        "hu": "A lótrágyát újrahasznosító géppel műtrágyává lehet tenni.", //Hungarian
+        "it": "Il letame di cavallo può essere trasformato in un fertilizzante da una macchina di riciclaggio.", //Italian
+        "ja": "馬の糞は、リサイクル機で肥料に変えることができます。", //Japanese
+        "pt": "O esterco de cavalo pode ser transformado em fertilizante com uma máquina de reciclagem.", //Portuguese
+        "ru": "Конский навоз можно перерабатывать в удобрения с помощью машины для обработки.", //Russian
+        "tr": "Horse manure can be turned into fertilizer using a recycling machine.", //Turkish
+        "zh": "马粪可以用回收机制成肥料。", //Chinese (Simplified)
+    }
 }
