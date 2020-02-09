@@ -15,13 +15,11 @@
 				"OutputMaxStack": 1
 			},
 		],
-		"Sounds": ["trashcan"],
 	},
 	{ //Cloth
 		"ProducerName": "Loom",
 		"InputIdentifier": "Horse Hair",
 		"MinutesUntilReady": 240,
 		"OutputIdentifier": "428",
-		"Sounds": ["Ship"]
 	}
 ]
