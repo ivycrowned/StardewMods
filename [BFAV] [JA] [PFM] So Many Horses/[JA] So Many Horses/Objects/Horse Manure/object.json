@@ -1,9 +1,0 @@
-{
-    "Name": "Horse Manure",
-    "Description": "Horse manure can be made into fertilizer using the recycling machine.",
-    "Category": "AnimalGoods",
-    "Edibility": -300,
-    "Price": 50,
-    "IsColored": false,
-    "Recipe": null
-}
