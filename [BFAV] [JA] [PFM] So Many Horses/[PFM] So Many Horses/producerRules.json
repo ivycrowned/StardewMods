@@ -1,7 +1,7 @@
 ﻿[
 	{ //Recycling Machine Fertilizer
 		"ProducerName": "Recycling Machine",
-		"InputIdentifier": "Horse Manure",
+		"InputIdentifier": "Manure",
 		"InputStack": 2,
 		"MinutesUntilReady": 40,
 		"OutputIdentifier": "368",
@@ -15,6 +15,7 @@
 				"OutputMaxStack": 1
 			},
 		],
+		"DisableWithMod": "BFAVBulls"
 	},
 	{ //Cloth
 		"ProducerName": "Loom",
