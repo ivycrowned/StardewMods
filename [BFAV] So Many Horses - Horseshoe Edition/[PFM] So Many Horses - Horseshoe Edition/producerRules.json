@@ -3,14 +3,14 @@
 		"ProducerName": "Recycling Machine",
 		"InputIdentifier": "Horseshoe",
 		"InputStack": 1,
-		"MinutesUntilReady": 20,
-		"OutputIdentifier": "380",
+		"MinutesUntilReady": 40,
+		"OutputIdentifier": "335",
 		"OutputStack": 1,
 		"OutputMaxStack": 1,
 		"AdditionalOutputs": [
 			{
 				"OutputProbability": 0.25,
-				"OutputIdentifier": "380",
+				"OutputIdentifier": "335",
 				"OutputStack": 2,
 				"OutputMaxStack": 2
 			},

@@ -1,9 +1,9 @@
 {
-    "Name": "Horseshoe",
-    "Description": "Iron horseshoes can be recycled into iron ore.",
-    "Category": "AnimalGoods",
-    "Edibility": -300,
-    "Price": 10,
-    "IsColored": false,
-    "Recipe": null
+  "Name": "Horseshoe",
+  "Description": "A worn metal shoe attached to the bottom of a horse's hoof. Recycling it will probably yield iron.",
+  "Category": "ArtisanGoods",
+  "Edibility": -300,
+  "Price": 100,
+  "IsColored": false,
+  "Recipe": null,
 }
