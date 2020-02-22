@@ -1,0 +1,19 @@
+﻿{
+	"Name": "[PFM] So Many Horses - Horseshoe Edition",
+	"Author": "Ivycrowned",
+	"Version": "1.1.4",
+	"Description": "Adds producing rules for Ivycrowned's BFAV So Many Horses.",
+	"UniqueID": "Ivycrowned.PFMSoManyHorses.Horseshoe",
+	"MinimumApiVersion": "3.0.0",
+	"Dependencies": [
+		{
+			"UniqueID": "Ivycrowned.BFAVSoManyHorses.Horseshoe"
+		},
+		{
+			"UniqueID": "Ivycrowned.JASoManyHorses.Horseshoe"
+		}
+	],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	}
+}
