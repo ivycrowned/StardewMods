@@ -7,6 +7,7 @@
      "Types": [
 		{
         "Type": "Draft Horse 1",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft bay 1.png",
@@ -15,6 +16,7 @@
         },
 		{
         "Type": "Draft Horse 2",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft bay 2.png",
@@ -23,6 +25,7 @@
         },
 		{
         "Type": "Draft Horse 3",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft bay 3.png",
@@ -31,6 +34,7 @@
         },
 		{
         "Type": "Draft Horse 4",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft black 1.png",
@@ -39,6 +43,7 @@
         },
 		{
         "Type": "Draft Horse 5",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft black 2.png",
@@ -47,6 +52,7 @@
         },
 		{
         "Type": "Draft Horse 6",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft black 3.png",
@@ -55,6 +61,7 @@
         },
 		{
         "Type": "Draft Horse 7",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft chestnut 1.png",
@@ -63,6 +70,7 @@
         },
 		{
         "Type": "Draft Horse 8",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft chestnut 2.png",
@@ -71,6 +79,7 @@
         },
 		{
         "Type": "Draft Horse 9",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft chestnut 3.png",
@@ -79,6 +88,7 @@
         },
 		{
         "Type": "Draft Horse 10",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft dk grey 1.png",
@@ -87,6 +97,7 @@
         },
 		{
         "Type": "Draft Horse 11",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft dk grey 2.png",
@@ -95,6 +106,7 @@
         },
 		{
         "Type": "Draft Horse 12",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft dk grey 3.png",
@@ -103,6 +115,7 @@
         },
 		{
         "Type": "Draft Horse 13",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft dun 1.png",
@@ -111,6 +124,7 @@
         },
 		{
         "Type": "Draft Horse 14",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft dun 2.png",
@@ -119,6 +133,7 @@
         },
 		{
         "Type": "Draft Horse 15",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft dun 3.png",
@@ -127,6 +142,7 @@
         },
 		{
         "Type": "Draft Horse 16",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft lt grey 1.png",
@@ -135,6 +151,7 @@
         },
 		{
         "Type": "Draft Horse 17",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft lt grey 2.png",
@@ -143,6 +160,7 @@
         },
 		{
         "Type": "Draft Horse 18",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft lt grey 3.png",
@@ -151,6 +169,7 @@
         },
 		{
         "Type": "Draft Horse 19",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft palomino 1.png",
@@ -159,6 +178,7 @@
         },
 		{
         "Type": "Draft Horse 20",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft palomino 2.png",
@@ -167,6 +187,7 @@
         },
 		{
         "Type": "Draft Horse 21",
+	"DeluxeProduceLuck": "0.4",
         "Data": "1/5/Manure/Horse Hair/leafrustle/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/639/4000/Draft Horse/Barn",
         "Sprites": {
             "Adult": "assets/draft palomino 3.png",
